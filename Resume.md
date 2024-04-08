@@ -1,20 +1,18 @@
 # Jacob Mattie
-
-- Email: jacob@qimbet.com
-- Phone: 778-710-7554
-- LinkedIn: https://www.linkedin.com/in/qimbet/
-- GitHub: [Your GitHub Profile (if applicable)]
+Email: jacob@qimbet.com
+Phone: 778-710-7554
+LinkedIn: https://www.linkedin.com/in/qimbet/
+GitHub: [Your GitHub Profile (if applicable)]
 
 ## Summary
-
-[Short summary highlighting your key skills, experiences, and career objectives.]
+Mathematics professional with strong analytical skills and problem-solving expertise, seeking to leverage mathematical background into a dynamic career in computer science. Proficient in programming languages and eager to apply mathematical principles to innovate in software development and data analysis.
 
 ## Education
 
-### [Degree Earned] in [Field of Study]
-[Name of Institution], [Location]
-- Graduation Year: [Year]
-- Relevant Coursework: [List any relevant coursework or projects]
+### BSc. in Mathematics
+Simon Fraser University, Burnaby, BC
+- Graduation Year: 2022
+- Relevant Coursework: highlight courses in data structures, algorithms, programming languages, and software engineering methodologies.
 
 ## Experience
 
@@ -29,20 +27,19 @@
 ## Skills
 
 - **Technical Skills:**
-  - [List relevant technical skills (e.g., programming languages, software, tools)]
+  - C++
+  - Python
+  - SQL (PostgreSQL)
+  - MATLAB
 - **Soft Skills:**
-  - [List relevant soft skills (e.g., communication, teamwork, problem-solving)]
+  - Writing
+  - Customer Interactions
 
 ## Projects
 
 - **[Project Title]**
   - [Brief description of the project and your role/responsibilities]
   - [Link to the project (if applicable)]
-
-## Certifications
-
-- **[Certification Name]**
-  - [Issuing Organization], [Year]
 
 ## Additional Information
 
