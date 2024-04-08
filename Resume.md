@@ -9,7 +9,6 @@ GitHub: https://github.com/qimbet
 
 ## Summary
 Mathematics professional with strong analytical skills and problem-solving expertise, seeking to leverage mathematical background into a dynamic career in computer science. Proficient in programming languages and eager to apply mathematical principles to innovate in software development and data analysis.
-test test test
 
 ## Education
 
