@@ -43,11 +43,9 @@ Simon Fraser University, Burnaby, BC
 
 ## Additional Information
 
-- **Languages:** [List any languages you speak]
+- **Languages:** English, French, Spanish
 - **Volunteer Experience:** [Briefly mention any relevant volunteer work]
-- **Interests:** [List any hobbies or interests relevant to the position]
+- **Interests:** Softare Automation. 
 
 ## References
-
 Available upon request.
-
