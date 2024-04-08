@@ -1,11 +1,15 @@
 # Jacob Mattie
 Email: jacob@qimbet.com
+
 Phone: 778-710-7554
+
 LinkedIn: https://www.linkedin.com/in/qimbet/
-GitHub: [Your GitHub Profile (if applicable)]
+
+GitHub: https://github.com/qimbet
 
 ## Summary
 Mathematics professional with strong analytical skills and problem-solving expertise, seeking to leverage mathematical background into a dynamic career in computer science. Proficient in programming languages and eager to apply mathematical principles to innovate in software development and data analysis.
+test test test
 
 ## Education
 
