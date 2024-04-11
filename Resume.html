@@ -22,6 +22,9 @@
         .section h3 {
             margin-bottom: 5px;
         }
+        .section h4 {
+            margin-bottom: 0px;
+        }
         .section p {
             margin-bottom: 10px;
         }
@@ -30,10 +33,31 @@
             border-top: 1px solid #ccc;
             padding-top: 20px;
         }
+        /* .sectionBreak {
+            border-top: 1px solid #ccc;
+            border-width: 400px;
+            border-height: 1px;
+            margin-top: 5px;
+            margin-bottom: 5px; 
+        } */
+        .sectionBreak {
+            margin-top: 30px;
+            border-top: 1px solid #ccc;
+            padding-top: 20px; 
+            padding-left: 400px;
+            padding-right: 400px;
+        }
+        .container {
+            border: 2px solid black;
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto; 
+        }
+
     </style>
 </head>
 
-<body>
+<body class="container">
     <header>
         <h1>Jacob Mattie</h1>
         <p>Software Engineer - Algorithm Specialist</p>
@@ -82,11 +106,13 @@
                 <ul>
                     <li>Conducted rigorous testing and analysis of software and hardware components to ensure quality, reliability, and compliance with regulatory standards.</li>
                     <li>Documented test results and identified areas for improvement, providing valuable feedback to development and sales teams.</li>
-                    <li>Developed firmware for ESP32 microcontrollers enabling wireless connectivity to a PC, transmitting data upon request.</li>
+                    <li>Developed firmware for ESP32 microcontrollers enabling wireless connectivity to an external Python codebase, transmitting data upon request.</li>
                     <li>Implemented Python and Excel scripts for automated data analysis, resulting in a 300% increase in employee testing time efficiency.</li>
                     <li>Produced over 35,000 words of training documents outlining company procedures and product specifications, facilitating structured learning and scalability within the organization.</li>
                 </ul>
 
+        <div class="sectionBreak"></div>
+        
         <h3 class="Title">Opinions Editor, The Peak Publications Society</h3>
             <h4 class="Individual Info">Burnaby, BC</h4>
             <h4 class="dates">December 2021 - April 2022</h4>
@@ -97,6 +123,8 @@
                     <li>Curated a diverse range of voices and viewpoints from within the student community, fostering a platform for thought-provoking discourse and diverse perspectives.</li>
                     <li>Oversaw the curation and editing process for opinion pieces, with the goal of refining arguments and ensuring clarity, veracity, and coherence.</li>
                 </ul>
+
+        <div class="sectionBreak"></div>       
 
         <h3 class="Title">IT Technician, BC Cancer Research Center</h3>
             <h4 class="Individual Info">Vancouver, BC</h4>
@@ -131,8 +159,8 @@
         <h3>Contact Information</h3>
         <p>Email: jacob@qimbet.com</p>
         <p>Phone: +1 778-710-7554</p>
-        <p>LinkedIn: https://www.linkedin.com/in/qimbet</p>
-        <p>GitHub: https://github.com/qimbet</p>
+        <p><a href="https://www.linkedin.com/in/qimbet">LinkedIn</a></p>
+        <p><a href="https://github.com/qimbet">GitHub</a></p>
     </footer>
 </body>
 </html>
